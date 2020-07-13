@@ -27,3 +27,22 @@ If you extracted the folder onto your desktop, you should only need to change th
 
 - (4. Optional) defaultFontSize: If you want the font to start bigger/smaller when you launch the app, you can change this
 
+**3. Start the application**
+
+ - Seems simple enough, but you need to start it for it to work
+ 
+ **4. Play a game against the AI with the deck you want to use**
+ 
+ - Feel free to concede as soon as you are able. This step is required in order to log your deck because log files only have your deck against AI
+ 
+ **5. Click on Create Deck**
+ 
+  - This should load the application with your deck
+ 
+ **6. Play games!**
+ 
+ -  The deck tracker should automatically refresh whenever you start a new game!
+ 
+ 
+ ***Note: You need to repeat steps 4 and 5 whenever you change decks. Also, you can click on "Load Deck" instead of doing steps 4 and 5 if you end the program and restart it later (as long as you are using the same deck.***
+ 
