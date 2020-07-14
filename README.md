@@ -48,3 +48,14 @@ If you extracted the folder onto your desktop, you should only need to change th
  
  ***Note: You need to repeat steps 4 and 5 whenever you change decks. Also, you can click on "Load Deck" instead of doing steps 4 and 5 if you end the program and restart it later (as long as you are using the same deck.***
  
+ 
+ 
+ As per request, my ETH address is:
+  - 0x49b0Dd8F81bF10CE7E999D73347107BFd6479FE5
+  
+ and my PayPal is:
+  - https://www.paypal.me/JMoore11235 
+ 
+ ***PLEASE DO NOT FEEL OBLIGATED TO DONATE***. This deck tracker is **free** and open-source, and it will continue to be as such. Please only donate if you have nothing better to spend your money on. If you do donate, thank you very much! It helps me know that people value this, and that I should continue to work on it.
+ 
+ Feel free to ask me any questions/give feedback and bug reports to JMoney#6100
