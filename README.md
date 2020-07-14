@@ -16,6 +16,10 @@ This Python program will allow you to know what cards are left in your deck!
 
 # Setup Guide
 
+**0. Install Python (if you don't have it already)**
+ - Go to https://python.org/downloads/
+ - You need to do this if you do not have python version 3.X
+
 **1. Download the .zip folder and extract the files**
 - I have mine on my Desktop so I don't lose track of it, but you can really put it wherever you want
 
