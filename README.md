@@ -6,7 +6,9 @@ This Python program will allow you to know what cards are left in your deck!
 
 **Known Bugs**
 
--Cards shuffled into your opponents deck will appear as if they were shuffled into your deck instead
+- Cards shuffled into your opponents deck will appear as if they were shuffled into your deck instead
+- Choose One Cards (Like Canopy Barage) will shuffle 
+- Weapons sometimes go into your deck when played
 
 
 
