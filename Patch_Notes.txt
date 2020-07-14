@@ -1,0 +1,17 @@
+These are the patch notes; basically what has changed for each version. Most recent changes will be at the top!
+
+
+
+
+
+
+v1.1:
+ -UI Changes:
+ --Buttons look better
+ --Nightmode Added
+ --Transparency Added
+ 
+ -Functionality Changes:
+ --Paths will automatically fill in <USER>. This means that you no longer need to update the code unless you change where the local folder is.
+ 
+ 
