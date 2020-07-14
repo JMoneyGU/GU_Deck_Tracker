@@ -49,6 +49,9 @@ If you extracted the folder onto your desktop, you should only need to change th
  ***Note: You need to repeat steps 4 and 5 whenever you change decks. Also, you can click on "Load Deck" instead of doing steps 4 and 5 if you end the program and restart it later (as long as you are using the same deck.***
  
  
+ .
+ 
+ .
  
  As per request, my ETH address is:
   - 0x49b0Dd8F81bF10CE7E999D73347107BFd6479FE5
