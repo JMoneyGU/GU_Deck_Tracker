@@ -1,6 +1,15 @@
 These are the patch notes; basically what has changed for each version. Most recent changes will be at the top!
 
 
+v1.2:
+ -Functionality Changes:
+   --Number of cards remaining in deck is now displayed
+   --Percent chance to draw cards is now displayed
+   --Shuffling tracking removed. Note that any cards shuffled into your deck will not be displayed, or correctly update the number of cards in deck/%'s to draw.
+    (This was done because the feature was horribly inconsistent and causing more problems than it was worth. This is planned to be reimplemented in a later version.)
+   
+ -UI Changes:
+  --Logo added in the top left-hand corner
 
 
 
