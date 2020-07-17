@@ -1,14 +1,9 @@
 # Gods Unchained Deck Tracker
 
 This Python program will allow you to know what cards are left in your deck!
-*Note that this is still under construction. I am planning to add features (such as saving decks) and working out bugs (i.e. cards shuffled into your opponnent's deck).*
+*Note that this is still under construction. I am planning to add features (such as saving decks and reimplementing the shuffling feature) and working out bugs.*
 
 
-**Known Bugs**
-
-- Cards shuffled into your opponents deck will appear as if they were shuffled into your deck instead
-- Choose One Cards (Like Canopy Barage) will shuffle 
-- Weapons sometimes go into your deck when played
 
 
 
@@ -23,15 +18,14 @@ This Python program will allow you to know what cards are left in your deck!
 **1. Download the .zip folder and extract the files**
 - I have mine on my Desktop so I don't lose track of it, but you can really put it wherever you want
 
-**2. Edit the Python file (if you want)**
-- There are 3 things that you may need to change for the program to function (the 3 file paths)
-- 1. logFileName
-- 2. tempFileName
-- 3. deckFileName
+**2. Edit the Python file (if you want, but really not required)**
+-In the unlikely case where the paths are incorrect, you may need to manually change them; however this should rarely if ever be an issue.
 
-If you extracted the folder onto your desktop, you shouldn't have to change anything.
+-You can also edit various variables to suit your preferences:
+ -- 1. defaultFontSize: If you want the font to start bigger/smaller when you launch the app, you can change this
+ -- 3. alphaLevel: Change to a value between 0 and 1 to make the app launch with more or less transparancy (0 is completely invisible, 1 is fully visible).
+ -- 2. nightMode: Change to "True" if you want to launch the program in night mode instead of day mode
 
-- (4. Optional) defaultFontSize: If you want the font to start bigger/smaller when you launch the app, you can change this
 
 **3. Start the application**
 
@@ -40,6 +34,7 @@ If you extracted the folder onto your desktop, you shouldn't have to change anyt
  **4. Play a game against the AI with the deck you want to use**
  
  - Feel free to concede as soon as you are able. This step is required in order to log your deck because log files only have your deck against AI
+ - Yes I know this is annoying, but talk to GU about their log files, not me.
  
  **5. Click on Create Deck**
  
@@ -50,7 +45,7 @@ If you extracted the folder onto your desktop, you shouldn't have to change anyt
  -  The deck tracker should automatically refresh whenever you start a new game!
  
  
- ***Note: You need to repeat steps 4 and 5 whenever you change decks. Also, you can click on "Load Deck" instead of doing steps 4 and 5 if you end the program and restart it later (as long as you are using the same deck.***
+ ***Note: You need to repeat steps 4 and 5 whenever you change decks. Also, you can click on "Load Deck" instead of doing steps 4 and 5 if you end the program and restart it later (as long as you are using the same deck as before).***
  
  
  .
