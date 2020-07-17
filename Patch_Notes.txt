@@ -3,6 +3,7 @@ These are the patch notes; basically what has changed for each version. Most rec
 
 v1.2:
  -Functionality Changes:
+   --You no longer need to keep this folder on your desktop; it can work from anywhere.
    --Number of cards remaining in deck is now displayed
    --Percent chance to draw cards is now displayed
    --Shuffling tracking removed. Note that any cards shuffled into your deck will not be displayed, or correctly update the number of cards in deck/%'s to draw.
