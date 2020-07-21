@@ -50,6 +50,8 @@ This Python program will allow you to know what cards are left in your deck!
  
  .
  
+ Shoutout to twitch.tv/CopperPitch for some ideas on how to make things better
+ 
  .
  
  As per request, my ETH address is:
